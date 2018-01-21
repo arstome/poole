@@ -18,6 +18,9 @@ html {
   font-family: $root-font-family;
   font-size: $root-font-size;
   line-height: $root-line-height;
+  background-image:
+    linear-gradient(rgba(255, 255, 240, 0.9), rgba(255, 255, 240, 0.7)), 
+    url('../images/background.jpg');
 
   @media (min-width: $large-breakpoint) {
     font-size: $large-font-size;
