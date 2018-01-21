@@ -3,18 +3,14 @@ layout: post
 title: 可视化期末作品
 ---
 
-关于“整形”和“美容”这两个关键字的比较
+关于“整容”和“美容”这两个关键字的比较
 
 -----
 
-![Image text](https://raw.github.com/yourName/repositpry/master/yourprojectName/img-folder/test.jpg)
-There are currently three themes built on Poole:
+![Image text](https://raw.githubusercontent.com/arstome/arstome.github.io/master/public/tableau1.jpg)
+![Image text]
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-* [Enfield](http://enfield.getpoole.com)
-
-Learn more and contribute on [GitHub]({{ site.github.repo }}).
+由上面两个图可以看出带有“美容”或者“整容”这两个字的公司大都分布在东南部，而在东南地区，又数沿海地区分布的最为密集，整体呈现从中国东部到西部逐渐递减的一个趋势。而从直方图可看出，带有“美容”这两个字的公司比带有“整容”这两个字的公司要多，但总体来说是相差不多的。
 
 ### What's included
 
